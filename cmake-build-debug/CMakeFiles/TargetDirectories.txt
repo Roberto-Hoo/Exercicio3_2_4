@@ -1,0 +1,3 @@
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/Exercicio3_2_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/Exercicio3_2_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/Exercicio3_2_4/cmake-build-debug/CMakeFiles/Exercicio3_2_4.dir

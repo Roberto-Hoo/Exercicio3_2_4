@@ -1,0 +1,1 @@
+mpic++   -std=c++14 -Wall -Wextra -Werror -g   CMakeFiles/Exercicio3_2_3.dir/E324.cpp.o  -o Exercicio3_2_3 
